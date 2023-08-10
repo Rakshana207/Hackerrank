@@ -1,0 +1,18 @@
+//AUTHOR:K.Rakshana DATE:10-8-23
+//Input and Output
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main() {
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
+    int a,b,c,d;
+    cin>>a>>b>>c;
+    d=a+b+c;
+    cout<<d<<endl;   
+    return 0;
+}
