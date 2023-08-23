@@ -1,5 +1,5 @@
 //AUTHOR:K.Rakshana DATE:17-8-23
-//functions
+//Functions
 #include <iostream>
 #include <cstdio>
 using namespace std;
